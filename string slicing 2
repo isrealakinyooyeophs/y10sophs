@@ -1,0 +1,7 @@
+
+name=(input('enter your name'))
+
+name2=(input('enter your surname'))
+space=' '
+print(name + space + name2)
+print(len(name+name2))
