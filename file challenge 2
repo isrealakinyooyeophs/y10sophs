@@ -1,0 +1,5 @@
+file = open('nuber.txt','w')
+file2 =input('write five names>>>>>')
+file.write(file2)
+file.close()
+print('Pob\n and open write.txt')
