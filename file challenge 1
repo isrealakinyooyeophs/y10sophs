@@ -1,0 +1,5 @@
+file = open('nuber.txt','w')
+file2 =input('write five number>>>>>')
+file.write(file2)
+file.close()
+print('\nGo and open write.txt')
