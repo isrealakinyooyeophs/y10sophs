@@ -1,0 +1,6 @@
+
+def fifa47 () :
+    print ('tournament mode, career mode or online seasons')
+
+
+fifa47 ()
