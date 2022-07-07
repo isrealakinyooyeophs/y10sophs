@@ -1,0 +1,8 @@
+# subprograms
+# subprogram shortens your code
+#this subprogram is an example of a 'procedure'
+# a procedure does not have return stament value 
+def kebab():# the bracket are called parameters
+    print('kebabs are tasty')
+kebab()# call
+kebab()# another call
